@@ -32,8 +32,7 @@ import android.widget.Toast;
  * order, a spinner for setting the label for a phone number, and EditText input
  * controls.
  */
-public class OrderActivity extends AppCompatActivity
-        implements AdapterView.OnItemSelectedListener{
+public class OrderActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener{
 
     /**
      * Sets the content view to activity_order, and gets the intent and its
